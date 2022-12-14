@@ -25,7 +25,7 @@ I've created HXH4, which is a social network for fishermen around the world.
           <img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
         <br><br>
-        <a href="[https://www.linkedin.com/in/newdigitalworld/](https://stackoverflow.com/users/8055516/gennady-dmitrik">
+        <a href="https://stackoverflow.com/users/8055516/gennady-dmitrik">
           <img align="center" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
         </a>
         <br><br>
@@ -34,7 +34,7 @@ I've created HXH4, which is a social network for fishermen around the world.
         </a>
       </td>
       <td>
-        <a href="[https://www.linkedin.com/in/newdigitalworld/](https://itunes.apple.com/us/developer/gennady-dmitrik/id1154228999">
+        <a href="https://itunes.apple.com/us/developer/gennady-dmitrik/id1154228999">
           <img align="left" height="50px" alt="ios" src="http://newdigital.world/assets/images/icons/appStore.png" />
         </a>
         <br><br><br>
