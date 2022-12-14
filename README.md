@@ -1,12 +1,13 @@
 <h1 align="center">👋 Hi everyone, I'm Gennady Dmitrik an  iOS Developer.</h1>
 <br><br>
 
-```bash
-hello world!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=hello+world!)](https://git.io/typing-svg)
 
+```bash
 I've created HXH4, which is a social network for fishermen around the world.
 🌱 I'm currently learning ML.
 ```
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ndwdm&include_all_commits=true&count_private=tru&bg_color=10,030170,5271FF&title_color=fff&text_color=fff"><br>
 </p>
