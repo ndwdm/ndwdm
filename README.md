@@ -22,7 +22,7 @@ My leetcode <a href="https://leetcode.com/ndwdm/" target="_blank">profile</a><br
   <tbody>
     <tr>
       <td>
-        <a href="https://www.linkedin.com/in/newdigitalworld/">
+        <a href="https://www.linkedin.com/in/gennadydmitrik/">
           <img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
         <br><br>
