@@ -4,8 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=hello+world!)](https://git.io/typing-svg)
 
 ```bash
-I've created HXH4, which is a social network for fishermen around the world.
-🌱 I'm currently learning ML.
+Senior iOS Developer | FinTech. I've created HXH4, which is a social network for fishermen around the world. Moonlight open-sourced TOP App with AR.
 ```
 
 <p align="center">
