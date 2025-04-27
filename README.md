@@ -29,7 +29,7 @@ My leetcode <a href="https://leetcode.com/ndwdm/" target="_blank">profile</a><br
           <img align="center" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
         </a>
         <br><br>
-        <a href="http://newdigital.world/">
+        <a href="https://newdigital.world/">
           <img align="center" alt="web-site" height="100px" src="http://newdigital.world/gallery.png" />
         </a>
       </td>
@@ -38,7 +38,7 @@ My leetcode <a href="https://leetcode.com/ndwdm/" target="_blank">profile</a><br
           <img align="left" height="50px" alt="ios" src="http://newdigital.world/assets/images/icons/appStore.png" />
         </a>
         <br><br><br>
-        <a href="http://play.google.com/store/apps/dev?id=5113736054609938454">
+        <a href="https://play.google.com/store/apps/developer?id=Gennady+Dmitrik+NDW">
           <img align="left" height="50px" alt="android" src="http://newdigital.world/assets/images/icons/googlePlay.png" />
         </a>
       </td>
