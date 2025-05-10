@@ -6,16 +6,16 @@
 
 ## 💫 About Me
 ```bash
-Creative Software Engineer with extensive FinTech expertise. I've created the Moonlight open-sourced TOP App Store with AR, FeATness HealthTech app, getBUS public transport routing app, and many others.
+Creative Software Engineer with extensive FinTech expertise. I have created the Moonlight open-sourced TOP App Store with AR, FeATness HealthTech app, getBUS public transport routing app, and many others.
 I have many media and scientific articles. I have judged international startups, contests, and hackathons.
 ```
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ![Swift](https://img.shields.io/badge/Swift-F22F46?style=plastic&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-F22F46?style=plastic&logo=swiftui&logoColor=white) ![Objective-c](https://img.shields.io/badge/Objective-c-F22F46?style=plastic&logo=objective-c&logoColor=white) ![Java](https://img.shields.io/badge/java-%2300ADD8.svg?style=plastic&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%2300ADD8.svg?style=plastic&logo=kotlin&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
 
 
 ## My Leetcode
-<a href="https://leetcode.com/ndwdm/" target="_blank">Leetcode</a>
+<a href="https://leetcode.com/ndwdm/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/1*gBkMCGTAdSk4tu17SCa7RQ.png" width="120"></a>
 
 ## 📫 Connect with me
 
@@ -34,8 +34,5 @@ I have many media and scientific articles. I have judged international startups,
 [![Google Play](http://newdigital.world/assets/images/icons/googlePlay.png)](https://play.google.com/store/apps/developer?id=Gennady+Dmitrik+NDW)
 
 ## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ndwdm&bg_color=10,030170,5271FF&title_color=fff&text_color=fff">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ndwdm&include_all_commits=true&count_private=tru&bg_color=10,030170,5271FF&title_color=fff&text_color=fff">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ndwdm&bg_color=10,030170,5271FF&title_color=fff&text_color=fff">
+<img src="https://github-readme-stats.vercel.app/api?username=ndwdm&include_all_commits=true&count_private=tru&bg_color=10,030170,5271FF&title_color=fff&text_color=fff">
