@@ -33,7 +33,3 @@ I have many media and scientific articles. I have judged international startups,
 [![App Store](http://newdigital.world/assets/images/icons/appStore.png)](https://itunes.apple.com/us/developer/gennady-dmitrik/id1154228999)
 <br>
 [![Google Play](http://newdigital.world/assets/images/icons/googlePlay.png)](https://play.google.com/store/apps/developer?id=Gennady+Dmitrik+NDW)
-
-## Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ndwdm&bg_color=10,030170,5271FF&title_color=fff&text_color=fff">
-<img src="https://github-readme-stats.vercel.app/api?username=ndwdm&include_all_commits=true&count_private=tru&bg_color=10,030170,5271FF&title_color=fff&text_color=fff">
