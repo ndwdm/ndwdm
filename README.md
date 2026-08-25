@@ -1,4 +1,5 @@
 ## 👋 Hi everyone, I'm Gennady Dmitrik an  iOS Developer
+iOS Software Engineer · FinTech · Trading · AI Dev Tools · Swift · SwiftUI · Objective-C · UIKit · ASO
 
 <!---![](https://komarev.com/ghpvc/?username=ndwdm&label=Profile%20views&color=0e75b6&style=flat)-->
 ![](https://komarev.com/ghpvc/?username=ndwdm&label=Profile%20views&color=0e75b6&style=flat)
@@ -7,8 +8,15 @@
 
 ## 💫 About Me
 ```bash
-Creative Software Engineer with extensive FinTech expertise. I have created the Moonlight open-sourced TOP App Store with AR, FeATness HealthTech app, getBUS public transport routing app, and many others.
-I have many media and scientific articles. I have judged international startups, contests, and hackathons.
+
+Senior iOS Developer with 11 YEARS (more than 20 YEARS total in Software Engineering) of experience
+in the development of innovative and accessible features for hundreds of MILLIONS of users and a strong
+background in the FINTECH domain.
+
+Moonlight open-source with AR - TOP App Store
+getBUS public transport routing app - TOP App Store
+Many media and scientific articles.
+Judged international startups, contests, and hackathons.
 ```
 
 ## 💻 Tech Stack
