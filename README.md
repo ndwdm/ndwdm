@@ -1,5 +1,5 @@
 ## 👋 Hi everyone, I'm Gennady Dmitrik an  iOS Developer
-iOS Software Engineer · FinTech · Trading · AI Dev Tools · Swift · SwiftUI · Objective-C · UIKit · ASO
+iOS Software Engineer · FinTech · Trading · GC Holder · responsible AI vibe coding · AI Dev Tools · Swift · SwiftUI · Objective-C · UIKit · CI/CD · ASO · from 0 to TOP of App Store
 
 <!---![](https://komarev.com/ghpvc/?username=ndwdm&label=Profile%20views&color=0e75b6&style=flat)-->
 ![](https://komarev.com/ghpvc/?username=ndwdm&label=Profile%20views&color=0e75b6&style=flat)
