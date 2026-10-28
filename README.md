@@ -28,7 +28,7 @@ Judged international startups, contests, and hackathons.
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gennadydmitrik)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gennady-dmitrik)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61575691293727)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/the_memories_are_worth_it)
 [![stack-overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/8055516/gennady-dmitrik)
